@@ -7,8 +7,8 @@
 
 ## What are it's benefits ?
 
-- Agility
-- Elasticity
+- Agility : The cloud gives you easy access to a broad range of technologies so that you can innovate faster and build nearly anything that you can imagine.
+- Elasticity : With cloud computing, you don’t have to over-provision resources up front to handle peak levels of business activity in the future. Instead, you provision the amount of resources that you actually need. You can scale these resources up or down to instantly grow and shrink capacity as your business needs change.
 - Cost savings
 - Deploy globally in minutes
 
