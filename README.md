@@ -14,7 +14,7 @@
 
 ## What is a AWS ?
 
-- s
+- AWS is one of the main cloud provides. They provides many different services to clients to use on the cloud.
 
 ## IaaS - PaaS - Saas
 
@@ -24,6 +24,13 @@
 
 - SaaS SaaS provides you with a complete product that is run and managed by the service provider. In most cases, people referring to SaaS are referring to end-user applications (such as web-based email). With a SaaS offering, you don’t have to think about how the service is maintained or how the underlying infrastructure is managed. You only need to think about how you will use that particular software. 
 
+![IaaS-PaaS-SaaS](https://user-images.githubusercontent.com/115224560/199247309-b177928a-9c63-401d-a8a0-49fff9781f3f.png)
+
+
 ## Cap-ex vs Op-ex
 
 - Cap-ex is 
+
+
+![capex-opex](https://user-images.githubusercontent.com/115224560/199247347-ad8851be-dbd4-468d-8aba-7d49f3bdd1e4.jpeg)
+
