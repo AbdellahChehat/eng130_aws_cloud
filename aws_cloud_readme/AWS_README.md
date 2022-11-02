@@ -12,7 +12,7 @@
 
 # How to connect to the Instance using Terminal
 
-- Select the Instance you want to connect to `eng130_subhaan`
+- Select the Instance you want to connect to `eng130_abdellah`
 - Go to `SSH client` on AWS 
 - Copy the example given e.g `ssh -i "eng130.pem" ubuntu@ec2-34-245-4-146.eu-west-1.compute.amazonaws.com` 
 - Go to your terminal and run this command `cd ~/.ssh`
