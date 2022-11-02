@@ -10,7 +10,12 @@
 
 
 
-- On terminal CD innto `.ssh` folder
-- then run `chmod 400 eng130.pem `
-- Then run `example link on imagine above`
+# How to connect to the Instance using Terminal
+
+- Select the Instance you want to connect to `eng130_subhaan`
+- Go to `SSH client` on AWS 
+- Copy the example given e.g `ssh -i "eng130.pem" ubuntu@ec2-34-245-4-146.eu-west-1.compute.amazonaws.com` 
+- Go to your terminal and run this command `cd ~/.ssh`
+- Then paste the example you copied
+- You will now be connected to the VM
   
