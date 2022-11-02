@@ -16,6 +16,9 @@
 
 - AWS is one of the main cloud provides. They provides many different services to clients to use on the cloud.
 
+![aws-diagram](https://user-images.githubusercontent.com/115224560/199456780-8c8f32cc-4b5f-45f8-9c37-fb1764c4e775.png)
+
+
 ## IaaS - PaaS - Saas
 
 - IaaS contains the basic building blocks for cloud IT. It typically provides access to networking features, computers (virtual or on dedicated hardware), and data storage space. IaaS gives you the highest level of flexibility and management control over your IT resources. It is most similar to the existing IT resources with which many IT departments and developers are familiar. 
