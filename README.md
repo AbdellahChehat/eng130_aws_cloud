@@ -29,6 +29,9 @@
 
 ![IaaS-PaaS-SaaS](https://user-images.githubusercontent.com/115224560/199247309-b177928a-9c63-401d-a8a0-49fff9781f3f.png)
 
+![saas-paas-iaas-difference-1](https://user-images.githubusercontent.com/115224560/199457382-5418e009-6894-43be-b5b9-9b74627eb39d.png)
+
+
 
 ## Cap-ex vs Op-ex
 
