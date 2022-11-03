@@ -42,3 +42,25 @@
 
 ![capex-opex](https://user-images.githubusercontent.com/115224560/199247347-ad8851be-dbd4-468d-8aba-7d49f3bdd1e4.jpeg)
 
+
+## Disaster Recovery 
+
+### What is it? 
+
+Disaster recovery is the process by which an organization anticipates and addresses technology-related disasters. IT systems in any company can go down unexpectedly due to unforeseen circumstances, such as power outages, natural events, or security issues. Disaster recovery includes a company's procedures and policies to recover quickly from such events.
+
+### What are the best disaster recovery methods?
+
+- Backup: Backing up data is one of the easiest methods of disaster recovery that all businesses implement. Backing up important data entails storing data offsite, in the cloud, or on a removable drive. You should back up data frequently to keep it up to date. For example, by backing up to AWS, businesses get a flexible and scalable infrastructure that protects all data types. 
+
+- Data center disaster recovery: In the event of certain types of natural disasters, appropriate equipment can protect your data center and contribute to rapid disaster recovery. For example, fire suppression tools help equipment and data survive through a blaze, and backup power sources support businesses’ continuity in case of power failure. Similarly, AWS data centers have innovative systems that protect them from human-made and natural risks.
+
+- Disaster recovery as a service: Disaster recovery services like AWS Elastic Disaster Recovery can move a company’s computer processing and critical business operations to its own cloud services in the event of a disaster. Therefore, normal operations can continue from the provider’s location, even if on-premises servers are down. Elastic Disaster Recovery also protects from Regions in the cloud going down. 
+
+### What is S3 ?
+
+- Amazon Simple Storage Service **(Amazon S3)** is an object storage service that offers industry-leading scalability, data availability, security, and performance. You can use Amazon S3 to store and retrieve any amount of data at any time, from anywhere.
+
+- To get the most out of **Amazon S3**, you need to understand a few simple concepts. Amazon S3 stores data as **objects** within **buckets**. An object consists of a file and optionally any metadata that describes that file. To store an object in Amazon S3, you upload the file you want to store to a bucket. When you upload a file, you can set permissions on the object and any metadata.
+
+- **Buckets are the containers for objects**. You can have one or more buckets. For each bucket, you can control access to it (who can create, delete, and list objects in the bucket), view access logs for it and its objects, and choose the geographical region where Amazon S3 will store the bucket and its contents.
