@@ -1,8 +1,14 @@
 # How to create an Auto Scaling Group
 
   1. Inside the EC2 tab, right at the very bottom, there is a tab for Auto Scaling Groups
+  <img width="215" alt="Screenshot 2022-11-07 at 09 35 28" src="https://user-images.githubusercontent.com/115224560/200276849-2f473015-80dc-45ad-97dc-26fd8a74e6ee.png">
+
   2. Inside there you should see a button labeled "Create Auto Scaling Group"
+  <img width="1096" alt="Screenshot 2022-11-07 at 09 35 35" src="https://user-images.githubusercontent.com/115224560/200276965-29e4f386-0233-4974-a47c-eceec75feeea.png">
+
   3. Fill out the name of your group (follow conventions for easier use later)
+<img width="1147" alt="Screenshot 2022-11-07 at 09 35 42" src="https://user-images.githubusercontent.com/115224560/200277027-d299e230-212c-4b87-9a2d-1741e41c812a.png">
+
 4. If you do not have a launch template, create one
 5. Stage 2, select your availability zones(eu-west-1a,b,c) and VPC(default for now)
 6. Ensure the instance type is selected already, if you see more than the "Network" and "Instance type requirements" then you have not selected your instace type requirement while creating your template(e.g. t2.micro)
