@@ -90,3 +90,7 @@ Disaster recovery is the process by which an organization anticipates and addres
 - Enables us to set alarms and automate actions based on predefined thresholds.
 - We can also use machine learning algorithms to detect any different behavior in our metrics.
 - We can easily start Amazon EC2 Auto Scaling automatically or stop an instance.
+
+
+## What is VPC ? 
+
