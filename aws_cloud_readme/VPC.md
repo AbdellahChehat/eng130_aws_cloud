@@ -86,5 +86,20 @@
 ### App EC2 security group
 <img width="1219" alt="Screenshot 2022-11-07 at 16 58 04" src="https://user-images.githubusercontent.com/115224560/200370002-f56e7fd3-8b6e-4a7d-8a8a-bf76b0cfaf8b.png">
 
+- The source for port 27017 is the public subnet's CIDR IP in this case `10.0.2.0/24`
+---
 ### DB EC2 security group
 <img width="1210" alt="Screenshot 2022-11-07 at 16 58 26" src="https://user-images.githubusercontent.com/115224560/200370017-e7622b0b-ddb2-4cb9-9ad4-3a3fa2ad6780.png">
+
+- The source for port 27017 is the public subnet's CIDR IP in this case `10.0.2.0/24`
+
+
+**Once all of this is complete you'll need to SSH into the App EC2 where you'll need to add the Enviroment var inorder to connect the app to the database**
+
+### Enviroment Var 
+  - `export DB_HOST=mongodb://10.0.14.229:27017/posts` 
+  - The IP inside ^ the env var is `Private IPv4 addresses` of the DB EC2 insatnce so...
+
+- We then CD into the app folder inside the VM and run `node seeds/seed.js`
+
+- Run `npm start`
