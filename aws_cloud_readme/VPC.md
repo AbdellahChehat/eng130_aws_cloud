@@ -97,6 +97,7 @@
 **Once all of this is complete you'll need to SSH into the App EC2 where you'll need to add the Enviroment var inorder to connect the app to the database**
 
 ### Enviroment Var 
+
   - `export DB_HOST=mongodb://10.0.14.229:27017/posts` 
   - The IP inside ^ the env var is `Private IPv4 addresses` of the DB EC2 insatnce so...
 
