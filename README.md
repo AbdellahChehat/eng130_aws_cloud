@@ -84,3 +84,9 @@ Disaster recovery is the process by which an organization anticipates and addres
 
 ![image-2](https://user-images.githubusercontent.com/115224560/200277719-fa637387-3d4c-495a-ad9a-89be744ebc0d.png)
 
+## CloudWatch
+
+- Used to Observe and monitor AWS resources and applications.
+- Enables us to set alarms and automate actions based on predefined thresholds.
+- We can also use machine learning algorithms to detect any different behavior in our metrics.
+- We can easily start Amazon EC2 Auto Scaling automatically or stop an instance.
