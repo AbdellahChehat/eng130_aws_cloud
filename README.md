@@ -65,6 +65,9 @@ Disaster recovery is the process by which an organization anticipates and addres
 
 - **Buckets are the containers for objects**. You can have one or more buckets. For each bucket, you can control access to it (who can create, delete, and list objects in the bucket), view access logs for it and its objects, and choose the geographical region where Amazon S3 will store the bucket and its contents.
 
+
+- In simple words S3 is a storgae faciliservicety supplied by AWS for Customers of all sizes and industries. 
+
 ### S3 Benefits
 
 - **Budget-friendly**
