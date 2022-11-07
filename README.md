@@ -80,5 +80,7 @@ Disaster recovery is the process by which an organization anticipates and addres
 
 ### Cloud Watch 
 
-- [insert diagram]
+![image](https://user-images.githubusercontent.com/115224560/200277696-b18e677b-837d-4eb7-8751-16f97918c444.png)
+
+![image-2](https://user-images.githubusercontent.com/115224560/200277719-fa637387-3d4c-495a-ad9a-89be744ebc0d.png)
 
