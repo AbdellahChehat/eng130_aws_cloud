@@ -76,3 +76,9 @@ Disaster recovery is the process by which an organization anticipates and addres
 - **High availability**: Availability is the measure of how readily a service can be used.
 - & more
 
+## Monitoring & Alert Management
+
+### Cloud Watch 
+
+- [insert diagram]
+
