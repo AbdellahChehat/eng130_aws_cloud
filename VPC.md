@@ -20,8 +20,11 @@
 
 ## What is a NACLS ?
 
-- A network access control list (NACL) is an optional layer of security for your VPC that acts as a firewall for controlling traffic in and out of one or more subnets. You might set up network ACLs with rules similar to your security groups in order to add an additional layer of security to your VPC.
+- A network access control list (NACL) is an optional layer of security for your VPC that acts as a firewall for controlling traffic in and out of one or more subnets.
+-  You might set up network ACLs with rules similar to your security groups in order to add an additional layer of security to your VPC.
+- You can't delete the default rules, but you can change them. When you create a network ACL, by default it has no rules in it, and therefore no traffic is allowed through the network ACL. You must add rules to the network ACL to control traffic.
 
 ## DIFFERENCE BETWEEN NACLs and Security Groups? 
 
 - Security group is a firewall on a instance level where as NACL is an added level of security on a subnet level?
+
