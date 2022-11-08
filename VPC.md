@@ -1,5 +1,6 @@
 ## What is a VPC ?
 
+
 - VPC stands for virtual Private cloud and it's b asically like your own private land on the cloud where you are able to launch AWS resources into a virtual network that you've defined.
 
 ## What is a Internet gateway ?
@@ -28,3 +29,16 @@
 
 - Security group is a firewall on a instance level where as NACL is an added level of security on a subnet level?
 
+
+
+
+--- 
+
+- Step 1: Create a VPC 10.0.0.0/16
+- Step 2: Create an Internet gateway 
+    - 2:1: Attach the IG to our VPC
+- Step 3: Create a public subnet 10.0.2.0/24
+- Step 4: Create a route table. - attach to VPC
+    - 4:1 add routes to connect to IG 0.0.0.0/0
+    - 4:2 Associate RT to public Subnet 
+- step 5: Launch New ec2 
