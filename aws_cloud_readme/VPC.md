@@ -96,10 +96,12 @@
 
 **Once all of this is complete you'll need to SSH into the App EC2 where you'll need to add the Enviroment var inorder to connect the app to the database**
 
-### Enviroment Var 
+### Enviroment Var 
 
   - `export DB_HOST=mongodb://10.0.14.229:27017/posts` 
+  - 
   - The IP inside ^ the env var is `Private IPv4 addresses` of the DB EC2 insatnce so...
+<img width="1211" alt="Screenshot 2022-11-07 at 17 13 16" src="https://user-images.githubusercontent.com/115224560/200373394-9e2c19b6-099c-4936-b0ac-3f0dc000bbbd.png">
 
 - We then CD into the app folder inside the VM and run `node seeds/seed.js`
 
