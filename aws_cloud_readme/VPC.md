@@ -74,15 +74,7 @@
 4. See below image for config 
 5. In user data add 
    ```
-   #!/bin/bash
-
-    sudo apt-get update -y
-    sudo apt-get upgrade -y
-
-    sudo apt-get install nginx -y
-    sudo systemctl start nginx
-    sudo systemctl enable nginx
-
+   
    ```
 6. Click Create EC2 Insatnce 
 
